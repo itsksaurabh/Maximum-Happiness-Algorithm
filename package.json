@@ -1,0 +1,14 @@
+{
+  "name": "happyusers",
+  "version": "1.0.0",
+  "description": "An application to maximise the happiness of user",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kumar Saurabh",
+  "license": "ISC",
+  "dependencies": {
+    "xlsx": "^0.12.5"
+  }
+}
