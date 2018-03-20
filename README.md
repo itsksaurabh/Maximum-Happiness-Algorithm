@@ -1,6 +1,6 @@
 # Maximum Happiness Algorithmic 
 
-Please refer to data given in this sheet: File.xlsx
+Please refer to data given in this sheet: file.xlsx
 The data is tales submitted by writers, in a given month. Column 1 is writer_id (ID of a writer). Column 2 is
 tale_id, each submission by a writer is an unique tale_id. A writer may have submitted more than 1 tale in the
 given month.
@@ -403,7 +403,8 @@ list of all tales we group the users users by their winning probabilities and se
 doing so , the algorithm maximises overall writer happiness while minimising individual writer unhappiness.
 
 # Requirements
-- 
+- Node.js
+- xlsx
 
 # Usage and Installation
 run the following command before running the app
@@ -413,8 +414,8 @@ $npm install
 Start the app 
 ```
 $node app.js
-``
+```
 # Author
 <ul>
-  <li><a href="https://in.linkedin.com/in/itsksaurabh">Kumar Saurabh</a></li>
+ <li><a href="https://in.linkedin.com/in/itsksaurabh"><strong>Kumar Saurabh</strong></a></li>
 </ul>
