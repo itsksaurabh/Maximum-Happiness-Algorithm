@@ -399,7 +399,7 @@ start();
 
 Hence, The chances of getting selected becomes very high as instead of selecting the Tale randomly from the list of
 
-list of all tales we group the users users by their winning probabilities and select a random user from each group.By
+list of all tales we group the users by their winning probabilities and select a random user from each group.By
 
 doing so , the algorithm maximises overall writer happiness while minimising individual writer unhappiness.
 
